@@ -4,7 +4,7 @@
 const { Resend } = require('resend');
 
 const FROM_EMAIL  = 'Portelimcon <contato@portelimcon.com.br>';
-const TO_INTERNAL = 'contato@portelimcon.com.br';
+const TO_INTERNAL = 'atendimento@portelimcon.com.br';
 const MAX_PDF_BYTES = 4 * 1024 * 1024; // 4MB base64 → ~3MB PDF real
 
 // ─── Templates de E-mail ─────────────────────────────────────────────────────

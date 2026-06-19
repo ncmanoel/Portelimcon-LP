@@ -4,7 +4,7 @@
 const { Resend } = require('resend');
 
 const FROM_EMAIL  = 'Portelimcon <contato@portelimcon.com.br>';
-const TO_INTERNAL = 'contato@portelimcon.com.br';
+const TO_INTERNAL = 'atendimento@portelimcon.com.br';
 
 // ─── Templates de E-mail ─────────────────────────────────────────────────────
 
